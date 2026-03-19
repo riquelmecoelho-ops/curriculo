@@ -1,0 +1,30 @@
+body{font-family:Verdana, Geneva, Tahoma, sans-serif;
+background:#1900ffc0;
+text-align:center;
+margin: 0;;
+}
+header{
+    background-color: blue;
+    color:black;
+    padding: 25px;
+}
+section{
+    margin: 30px;
+}
+h2{
+    color:black;
+}
+.projeto{
+    background-color: beige;
+    padding: 20px;
+    margin: 15px auto;
+    width:60%;
+    border-radius: 10px;
+    box-shadow: 2px 8px 20px rgb(255, 0, 0)
+}
+
+
+ 
+
+
+
